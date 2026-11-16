@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+opencv-python-headless>=4.9
+scikit-image>=0.22
+scipy>=1.11
+tifffile>=2024.1
+imagecodecs>=2024.1

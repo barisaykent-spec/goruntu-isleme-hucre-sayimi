@@ -1,0 +1,11 @@
+# Veri seti GitHub'a yüklenmez (Ödev Bölüm 18.5)
+data/
+*.zip
+*.tif
+*.tiff
+# Veri görüntüsü içeren şekiller sadece raporda kullanılır
+figures_private/
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
