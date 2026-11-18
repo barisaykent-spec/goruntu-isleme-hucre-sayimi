@@ -1,0 +1,7 @@
+ID,Grup,Yoğunluk,Filtre,Segmentasyon,Morfoloji,MinAlan,Count_MAE,RMSE,Bias,ExactAcc,Bulunan,Parçalanma,BoşTespit,Birleşme,Süre_ms,Not,config_json
+E00,Yoğunluk,none,none,otsu,none,30,5.5,6.301,0.9,0.0,138/225,88,8,0,6.5,baseline ile özdeş,"{""intensity"": [""none"", {}], ""filter"": [""none"", {}], ""segment"": [""otsu"", {}], ""morph"": [], ""min_area"": 30}"
+E01,Yoğunluk,"stretch(p_lo=1, p_hi=99.8)",none,otsu,none,30,3.8,4.123,3.6,0.0,146/225,109,6,0,20.2,,"{""intensity"": [""stretch"", {""p_lo"": 1, ""p_hi"": 99.8}], ""filter"": [""none"", {}], ""segment"": [""otsu"", {}], ""morph"": [], ""min_area"": 30}"
+E02,Yoğunluk,gamma(g=0.5),none,otsu,none,30,94.1,284.018,93.1,0.0,199/225,42,928,2,8.4,,"{""intensity"": [""gamma"", {""g"": 0.5}], ""filter"": [""none"", {}], ""segment"": [""otsu"", {}], ""morph"": [], ""min_area"": 30}"
+E03,Yoğunluk,he,none,otsu,none,30,1012.0,1024.092,1012.0,0.0,225/225,0,10231,25,12.3,,"{""intensity"": [""he"", {}], ""filter"": [""none"", {}], ""segment"": [""otsu"", {}], ""morph"": [], ""min_area"": 30}"
+E04,Yoğunluk,"clahe(clip=2.0, tile=8)",none,otsu,none,30,7.2,7.51,3.6,0.0,164/225,91,6,0,8.1,,"{""intensity"": [""clahe"", {""clip"": 2.0, ""tile"": 8}], ""filter"": [""none"", {}], ""segment"": [""otsu"", {}], ""morph"": [], ""min_area"": 30}"
+E05,Yoğunluk,"clahe(clip=4.0, tile=8)",none,otsu,none,30,2.0,2.408,0.4,0.2,171/225,51,7,0,8.8,,"{""intensity"": [""clahe"", {""clip"": 4.0, ""tile"": 8}], ""filter"": [""none"", {}], ""segment"": [""otsu"", {}], ""morph"": [], ""min_area"": 30}"
