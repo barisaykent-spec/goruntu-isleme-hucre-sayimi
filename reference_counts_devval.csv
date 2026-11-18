@@ -1,0 +1,16 @@
+group,sequence,block,frame,filename,seed,ref_count
+validation,01,,12,01/t012.tif,31084,23
+validation,01,,53,01/t053.tif,31084,21
+validation,01,,54,01/t054.tif,31084,21
+validation,01,,67,01/t067.tif,31084,21
+validation,01,,77,01/t077.tif,31084,21
+development,01,,0,01/t000.tif,31084,23
+development,01,,1,01/t001.tif,31084,23
+development,01,,5,01/t005.tif,31084,23
+development,01,,37,01/t037.tif,31084,24
+development,01,,39,01/t039.tif,31084,24
+development,01,,44,01/t044.tif,31084,24
+development,01,,85,01/t085.tif,31084,21
+development,01,,86,01/t086.tif,31084,21
+development,01,,88,01/t088.tif,31084,21
+development,01,,89,01/t089.tif,31084,21

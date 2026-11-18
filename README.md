@@ -22,8 +22,8 @@ jupyter notebook main.ipynb
 | Bölüm | Durum |
 |---|---|
 | 0–1. Kurulum ve veri inceleme | ✅ |
-| 2. Veri seçimi (`selected_frames.csv`) | ⏳ |
-| 3. Referans sayımlar | ⏳ |
+| 2. Veri seçimi (`selected_frames.csv`) | ✅ |
+| 3. Referans sayımlar (geliştirme + doğrulama) | ✅ |
 | 4. Baseline | ⏳ |
 | 5–8. Deneyler (`experiments.csv`) | ⏳ |
 | 9. Doğrulama (`validation_results.csv`) | ⏳ |
