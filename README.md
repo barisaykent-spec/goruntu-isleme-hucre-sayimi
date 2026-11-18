@@ -24,7 +24,7 @@ jupyter notebook main.ipynb
 | 0–1. Kurulum ve veri inceleme | ✅ |
 | 2. Veri seçimi (`selected_frames.csv`) | ✅ |
 | 3. Referans sayımlar (geliştirme + doğrulama) | ✅ |
-| 4. Baseline | ⏳ |
+| 4. Baseline (dondu: Otsu + bağlı bileşen + min alan 30 px) | ✅ |
 | 5–8. Deneyler (`experiments.csv`) | ⏳ |
 | 9. Doğrulama (`validation_results.csv`) | ⏳ |
 | 10. Kilit (`final_pipeline.json`, `test_predictions_locked.csv`) | ⏳ |

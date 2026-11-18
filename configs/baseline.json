@@ -1,0 +1,12 @@
+{
+  "name": "baseline_otsu_cc",
+  "steps": [
+    "gray",
+    "global_otsu",
+    "connected_components_8",
+    "min_area_filter"
+  ],
+  "min_area": 30,
+  "connectivity": 8,
+  "min_area_selection": "argmin development MAE over 0..800 step 10"
+}
